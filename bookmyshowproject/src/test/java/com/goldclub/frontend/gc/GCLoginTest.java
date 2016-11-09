@@ -28,6 +28,7 @@ public class GCLoginTest extends GcTestCase{
 	        
 	        // Close browser
 	        gcAccountPage.close();
+	        System.out.println("TEst");
 		}
 
 	}
